@@ -19,4 +19,4 @@ This Python script simulates the initial permutation (IP) step of the Data Encry
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/initial-permutation-simulation.git
+   git clone https://github.com/ekcaroline/initial-permutation-simulation.git
